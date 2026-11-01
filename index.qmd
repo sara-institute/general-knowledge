@@ -1,0 +1,215 @@
+---
+title: General Knowledge
+subtitle: SARA Bridge Course $\cdot$ Foundation Level by Dr. Ajay Kumar
+date: last-modified
+date-format: medium
+format: 
+    revealjs:
+        incremental: false
+        logo: images/logo-sara.png
+        slide-number: true
+title-slide-attributes: 
+  data-background-image: "https://images.unsplash.com/photo-1586858926949-26e502869828?q=80&w=1931&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D" 
+  data-background-position: "bottom -350px left -1px"
+  data-background-size: cover
+---
+
+# India {background-image="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/India_%28orthographic_projection%29.svg/1920px-India_%28orthographic_projection%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail" background-size="30%" background-position="85% 50%"}
+
+## The National Insignia {background-image="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Emblem_of_India.svg/960px-Emblem_of_India.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail" background-size="25%" background-position="95% 50%"}
+
+> National Emblem
+
+
+::: {.columns}
+
+::: {.column width="70%"}
+
+- Lion Capital of Ashoka, Sarnath (MP).
+
+- Adopted as the state emblem of India: 26 Jan 1950, the day when India became a Republic.
+
+- *Satyameva Jayate* from *Mundaka Upanishad*. It is national motto.
+
+:::
+
+::: {.column}
+
+:::
+
+:::
+
+::: aside
+Insignia = चिह्न अधिचिह्न
+:::
+
+## The Ashoka Pillar {background-image="https://culturalsamvaad.com/wp-content/uploads/2023/05/Conjectural-View-of-Sarnath-Lion-Capital-e1685285953823-668x1024.jpg" background-size="contain" background-position="right"}
+
+::: {.columns}
+
+::: {.column width="68%"}
+
+- Capital means top of a pillar, around 7 feet tall on a 50-40 feet tall pillar, at Sarnath.
+
+- Sarnath (MP) where the Buddha gave his first sermon.
+
+- Ashoka, an emperor of Maurya Empire placed pillars like this one at several Buddhist monasteries.
+
+::: 
+
+::: 
+
+::: {.footer}
+Information from [UC Berkeley](https://orias.berkeley.edu/lion-capital-ashoka) & image from [Cultural Samvad](https://culturalsamvaad.com/sarnath-lion-capital-from-an-ashokan-pillar-to-indias-state-emblem/)
+:::
+
+## The Capital {background-image="https://orias.berkeley.edu/sites/default/files/styles/openberkeley_image_full/public/general/day1-1-sarnath_capital_with_numbers.jpg?itok=2t7brxs4&timestamp=1682567623" background-size="contain" background-position="right" .scrollable} 
+
+::: {.columns}
+
+::: {.column width="70%" .r-fit-text}
+
+1. The entire piece was the capital. 
+
+1. Horizontal disk is called abacus, it sits between the capital and the pillar.
+
+1. Dharmachakra (Wheel of Law), in Buddhism dharma means the universal law that governs the universe.
+
+1. Four lions on the capital, four cardinal direction, also Buddha, also Ashoka.
+
+1. The abacus has 4 wheels on it, also representing the dharmachakra. 
+
+1. In between the wheels are four animals: an elephant, a bull, a horse, and a lion. These animals were all associated with Buddhism.
+
+1. The bottom of the capital is a lotus.
+
+
+::: 
+
+::: 
+
+::: {.footer}
+Information and image from [UC Berkeley](https://orias.berkeley.edu/lion-capital-ashoka)
+:::
+
+## National Anthem
+
+> "Jana Gana Mana"
+
+
+::: {.columns}
+
+::: {.column}
+
+- Author & Composer: Rabindranath Tagore
+
+- Year Composed: 1911
+
+- Official Adoption Date: January 24, 1950
+
+:::
+
+::: {.column .r-fit-text}
+
+जनगणमन-अधिनायक जय हे भारतभाग्यविधाता!
+
+पंजाब सिंध गुजरात मराठा द्राविड़ उत्कल बंग
+
+विंध्य हिमाचल यमुना गंगा उच्छलजलधितरंग
+
+तव शुभ नामे जागे, तव शुभ आशिष मागेे,
+
+गाहे तव जयगाथा।
+
+जनगणमंगलदायक जय हे भारतभाग्यविधाता!
+
+जय हे, जय हे, जय हे, जय जय जय जय हे॥
+
+:::
+
+:::
+
+
+## National Song
+
+> "Vande Mataram"
+
+
+::: {.columns}
+
+::: {.column}
+
+- Author & Composer: Bankim Chandra Chatterjee
+
+- Year Published: 1882
+
+- Official Adoption Date: January 24, 1950
+
+:::
+
+::: {.column .r-fit-text}
+
+वन्दे मातरम्।
+
+सुजलाम् सुफलाम् मलय़जशीतलाम्,
+
+शस्यश्यामलाम् मातरम्। वन्दे मातरम्।
+
+शुभ्रज्योत्स्ना पुलकितयामिनीम्,
+
+फुल्लकुसुमित द्रुमदलशोभिनीम्,
+
+सुहासिनीम् सुमधुरभाषिणीम्,
+
+सुखदाम् वरदाम् मातरम्। वन्दे मातरम्।
+
+:::
+
+:::
+
+## The National Flag 🇮🇳 (The Tricolor)
+
+
+::: {.columns}
+
+::: {.column}
+
+- Saffron (Kesari): representing courage and sacrifice.
+
+- White: peace and truth.
+
+- Green: faith and chivalry
+
+- Chakra of navy blue
+
+:::
+
+::: {.column}
+
+- Design adopted on 22 July 1947
+
+- Flag Code of India 2002 regulates flat's use and display.
+
+- Prevention of Improper Use Act, 1950 & the Prevention of Insults to National Honour Act, 1971
+
+:::
+
+:::
+
+## National River
+
+> River Ganga
+
+
+
+
+
+
+
+
+
+
+
+
+
+
