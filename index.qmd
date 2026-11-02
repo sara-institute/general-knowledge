@@ -5,16 +5,17 @@ date: last-modified
 date-format: medium
 format: 
     revealjs:
-        incremental: false
         logo: images/logo-sara.png
         slide-number: true
+        incremental: true
+        lightbox: true
 title-slide-attributes: 
   data-background-image: "https://images.unsplash.com/photo-1586858926949-26e502869828?q=80&w=1931&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D" 
   data-background-position: "bottom -350px left -1px"
   data-background-size: cover
 ---
 
-# India {background-image="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/India_%28orthographic_projection%29.svg/1920px-India_%28orthographic_projection%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail" background-size="30%" background-position="85% 50%"}
+# India Insignia {background-image="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/India_%28orthographic_projection%29.svg/1920px-India_%28orthographic_projection%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail" background-size="30%" background-position="85% 50%"}
 
 ## The National Insignia {background-image="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Emblem_of_India.svg/960px-Emblem_of_India.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail" background-size="25%" background-position="95% 50%"}
 
@@ -198,7 +199,463 @@ Information and image from [UC Berkeley](https://orias.berkeley.edu/lion-capital
 
 ## National River
 
-> River Ganga
+> River Ganga (Ganges)
+
+- The longest in India, flowing over 2,510 kms.
+
+- Source of Ganga is *Gaumukh* in *Gangotri* Himalayan glacier.
+
+- the Bhagirathi, the Alaknanda, the Mandakini, the Dhauliganga, and the Pindar form Ganga
+
+## National Flower
+
+> Lotus
+
+- Scientific Name:	Nelumbo Nucifera Gaertn
+
+- Significance:	Purity, beauty, and spirituality
+
+- Cultural Importance:	Sacred in Indian religions like Hinduism and Buddhism
+
+- Habitat:	Grows in wetlands, ponds, and lakes
+
+## National Tree 
+
+> Indian Banyan Tree
+
+
+::: {.columns}
+
+::: {.column width="70%"}
+
+- Scientific name: *Ficus Bengalensis*
+
+- It has branches that shoots aerial roots letting it spread like new trees over a large area.
+
+- This tree is considered immortal due to the characteristic of spreading the whole area with its roots, expanding trunk and its longevity.
+
+:::
+
+::: {.column width="30%"}
+
+![](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Big_Banyan_Tree_at_Bangalore.jpg/1280px-Big_Banyan_Tree_at_Bangalore.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+:::
+
+:::
+
+## National Animal
+
+> Royal Bengal Tiger
+
+::: {.columns}
+
+::: {.column}
+
+- Scientific name: Panthera tigris tigris
+
+- In 2022, Bengal tiger population was around 3,167-3,682 in India.
+
+- 'Project Tiger' was launched in April 1973.
+
+:::
+
+::: {.column}
+
+![Map of distribution of Bengal tiger](https://upload.wikimedia.org/wikipedia/commons/0/06/Map_of_distribution_of_Panthera_tigris_tigris.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+:::
+
+:::
+
+::: footer
+Image source: [Wikipedia](https://en.wikipedia.org/wiki/Bengal_tiger#/media/File:Map_of_distribution_of_Panthera_tigris_tigris.png)
+:::
+
+## National Fruit
+
+> Mango
+
+- Scientific name: Mangifera indica
+
+- Around 100 varieties of mangoes in India
+
+## National Bird
+
+> Indian Peacock
+
+- Scientific name: Pavo cristatus
+
+![](https://birdshistory.com/wp-content/uploads/2026/09/indian-peacock-full-display-pench-national-park.jpg){width="50%"}
+
+## National Heritage Animal
+
+> Asiatic elephants
+
+## National Currency
+
+<br>
+
+::: {.columns}
+
+::: {.column width="70%"}
+
+- The symbol is a combination of both Devanagiri letter 'Ra' and Roman letter 'R' with a stripe cutting at the middle to represent the tricolor.
+
+- The use of Shiro Rekha in Devanagri script is unique to India where letters hangs from the top.
+
+- The sign designed by D. Udaya Kumar, IIT Guwahati, Assam
+
+:::
+
+::: {.column width="30%"}
+
+![](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Indian_Rupee_symbol.svg/960px-Indian_Rupee_symbol.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+:::
+
+:::
+
+::: footer
+Image source: [Wikipedia](https://en.wikipedia.org/wiki/Indian_rupee_sign#/media/File:Indian_Rupee_symbol.svg)
+:::
+
+## National Monument
+
+> India Gate
+
+::: {.columns}
+
+::: {.column width="70%"}
+
+- The war memorial, erected in memory of 90,000 soldiers who lost their lives fighting in the World War I and Afghan War for the British Army.
+
+- Designed by **Sir Edwin Lutyens**.
+
+- Earlier name was All India War Memorial.
+
+:::
+
+::: {.column width="30%"}
+
+![](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Edwin_Lutyens.jpg/960px-Edwin_Lutyens.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+:::
+
+:::
+
+## National Aquatic Animal
+
+> River Dolphin
+
+
+::: {.columns}
+
+::: {.column}
+
+- Scientific name: Platanista gangetical
+
+- It is a critically endangered species in India
+
+- It is put in Schedule 1 of the Wildlife Protection Act, 1972
+
+:::
+
+::: {.column}
+
+![](https://upload.wikimedia.org/wikipedia/commons/a/aa/Arktocara_NT_small.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+:::
+
+:::
+
+## National Reptile
+
+> King Cobra
+
+- Scientific name: Ophiophagus hannah
+
+- It grows up to 3 meters.
+
+## National Calendar
+
+- At the time of independence, the Government of India followed the Gregorian calender based upon the Christian era.
+
+## Indian Standard Time (IST)
+
+> +5.5 hours of GMT
+
+
+::: {.columns}
+
+::: {.column}
+
+- India has only one standard time.
+
+- Location of Mirzapur (near Allahabad) and the 82°30'E longitude that is used as the reference longitude for IST
+
+:::
+
+::: {.column width="40%"}
+
+![](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/IST-Mirzapur.svg/960px-IST-Mirzapur.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+:::
+
+:::
+
+# Who is Who {background-image="https://images.unsplash.com/photo-1618188644631-54528c4f8ef7?q=80&w=709&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D" background-size="contain" background-position="right"}
+
+::: footer
+Photo by <a href="https://unsplash.com/@luku_muffin?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Luku Muffin</a> on <a href="https://unsplash.com/photos/tuxedo-cat-with-yellow-eyes-lwtyu-Ccwvs?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+:::
+
+## ABBA {background-image="https://upload.wikimedia.org/wikipedia/commons/c/cb/ABBA_-_TopPop_1974_5.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" background-size="30%" background-position="right"}
+
+> Music
+
+
+::: {.columns}
+
+::: {.column width="70%"}
+
+- Swedish pop group formed in Stockholm in 1972 by Benny Andersson, Anni-Frid "Frida" Lyngstad, Agnetha Fältskog and Björn Ulvaeus.
+
+- One of the most popular and successful muscial groups of all time.
+
+- Also one of the best-selling music acts in the history of popular music.
+
+:::
+
+::: {.column}
+
+:::
+
+:::
+
+## Abbas, KA (1914-87)
+
+> Film industry
+
+::: {.columns}
+
+::: {.column width="70%"}
+
+- Indian film director, novelist, screenwriter, journalist
+
+- Wrote in Urdu, Hindi and English
+
+- One of the pioneers of neo-realistic cinema
+
+:::
+
+::: {.column width="30%"}
+
+![](https://upload.wikimedia.org/wikipedia/commons/5/5e/Khwaja_Ahmed_Abbas_1939.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+:::
+
+:::
+
+## Abdullah, Sheikh (1905-82)
+
+> Politics
+
+::: {.columns}
+
+::: {.column width="70%"}
+
+- Indian politician and the founder of National Conference
+
+- Known as the Lion of Kashmir
+
+- Former CM of Jammu & Kashmir
+
+:::
+
+::: {.column width="30%"}
+
+![](https://upload.wikimedia.org/wikipedia/commons/f/fc/Sheikh_Abdullah_1988_stamp_of_India.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+:::
+
+:::
+
+
+## Abe, Shinzo (1954-2022)
+
+> Politics
+
+::: {.columns}
+
+::: {.column width="70%"}
+
+- Prime Minister of Japan from 2006 to 2007 and from 2012 to 2020
+
+- Longest serving prime minister in Japanese history
+
+- Assassinated while delivering a campaign speech
+
+:::
+
+::: {.column width="30%"}
+
+![](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Shinz%C5%8D_Abe_20120501.jpg/960px-Shinz%C5%8D_Abe_20120501.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+:::
+
+:::
+
+
+## Abhyankar, Shreeram Shankar (1930-2012)
+
+> Education
+
+::: {.columns}
+
+::: {.column width="70%"}
+
+- Mathematician and educator
+
+- Made major contributions in algebraci geometry
+
+:::
+
+::: {.column width="30%"}
+
+![](https://upload.wikimedia.org/wikipedia/commons/e/ee/Abhyankar_Grothendieck.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+:::
+
+:::
+
+
+## Abraham, Abu (1924-2002)
+
+> Artist
+
+::: {.columns}
+
+::: {.column width="70%"}
+
+- Cartoonist, journalist and author
+
+- Finest exponents of political cartooning in India
+
+:::
+
+::: {.column width="30%"}
+
+![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthefederal.com%2Fh-upload%2F2024%2F11%2F09%2F489335-abuabraham.webp&f=1&nofb=1&ipt=abc604bd75113b88368ef5cc51588954692b75f40eb15a07d985942414027326&ipo=images)
+
+:::
+
+:::
+
+
+## [A. C. Bhaktivedanta (also called Swami Prabhupada)]{.r-fit-text}
+
+> Religion
+
+::: {.columns}
+
+::: {.column width="70%"}
+
+- Indian religious leader, in 1965 founded the International Society for Krishna Consciousness (ISKCON), known as Hare Krishna Movement 
+
+:::
+
+::: {.column width="30%"}
+
+![](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Prabhupada_singing_%28Germany_1974%29.jpg/960px-Prabhupada_singing_%28Germany_1974%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+:::
+
+:::
+
+
+## Adele (b. 1988)
+
+> Music
+
+::: {.columns}
+
+::: {.column width="70%"}
+
+- English pop singer and songwriter known for her soulful emotive voice and traditionally crafted songs.
+
+- One of the worl's best-selling music artists, with sales of over 120 million records.
+
+:::
+
+::: {.column width="30%"}
+
+![](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Adele_2016.jpg/960px-Adele_2016.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+:::
+
+:::
+
+
+## Adiseshiah, Malcolm
+
+> Education
+
+::: {.columns}
+
+::: {.column width="70%"}
+
+- Development economist and educator
+
+- Dy Director General of UNESCO
+
+- Padma Bhushan
+
+:::
+
+::: {.column width="30%"}
+
+![](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Malcolm_S._Adiseshiah.tif/lossy-page1-960px-Malcolm_S._Adiseshiah.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+:::
+
+:::
+
+
+## Advani, Lal Krishna (b. 1927)
+
+> Politics
+
+::: {.columns}
+
+::: {.column width="70%"}
+
+- Senior BJP leader and its former president
+
+- Deputy PM (2002-04)
+
+- Bharat Ratna (2024)
+
+:::
+
+::: {.column width="30%"}
+
+![](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Lalkrishna_Advani.jpg/330px-Lalkrishna_Advani.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)
+
+:::
+
+:::
+
+
+
+
+
+
+
+
+
+
+
 
 
 
